@@ -19,5 +19,5 @@ int main(){
 void mySwap(int &x, int &y) {
     int temp = x; 
     x = y;      
-    y = temp 
+    y = temp;
 }
